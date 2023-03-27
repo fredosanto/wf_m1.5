@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fredosanto/wf_m1.5/issues"
   },
-  "homepage": "https://github.com/fredosanto/wf_m1.5#readme"
+  "homepage": "https://github.com/fredosanto/wf_m1.5#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
